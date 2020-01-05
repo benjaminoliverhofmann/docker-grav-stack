@@ -1,6 +1,6 @@
-# wordpress-stack
+# docker-grav-stack
 
-A simple stack for wordpress.
+A simple stack for grav.
 
-It consists of nginx php-fpm and mariadb.
+It consists of nginx and php-fpm.
 # docker-grav-stack
